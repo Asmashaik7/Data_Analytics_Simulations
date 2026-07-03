@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This repository contains my work for the **Tata Group – GenAI Powered Data Analytics Virtual Job Simulation** hosted on **Forage**.
+This folder contains my work for the **Tata Group – GenAI Powered Data Analytics Virtual Job Simulation** hosted on **Forage**.
 
 In this simulation, I worked as a **Data Analyst** supporting **Geldium's Risk Assessment Team**, using **Generative AI (ChatGPT/Codey)** to solve business problems through Exploratory Data Analysis (EDA), predictive planning, business reporting, and AI-powered strategy design.
 
